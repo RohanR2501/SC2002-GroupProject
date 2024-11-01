@@ -17,4 +17,3 @@ public class Appointment {
         this.outcome = newOutcome;
     }
 }
-//hello
